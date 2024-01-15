@@ -49,8 +49,8 @@ bash
 ## Contributing:
 - Contributions are welcome! If you have any ideas for improvement, bug fixes, or additional features, please open an issue or submit a pull request.
 # Screenshots
-![Alt text]()
-
+![Alt text](./ss1.png)
+![Alt text](./ss2.png) ![Alt text](./ss3.png)
 
 ## Acknowledgments:
 Special thanks to the OpenCV and Dlib communities for their excellent libraries.
