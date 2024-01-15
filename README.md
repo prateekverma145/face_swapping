@@ -14,10 +14,11 @@ This project focuses on implementing real-time face swapping using OpenCV, a pop
 - Performance Optimization: Efforts are made to optimize the performance to ensure real-time processing, allowing the application to run smoothly even on modest hardware.
 
 ## Requirements:
-Python 3.x
-OpenCV
-NumPy
-Dlib (for facial landmark detection) // does not work in vscode 
+- Python 3.x
+- OpenCV
+- NumPy
+- Dlib (for facial landmark detection) // does not work in vscode 
+## Note- first install cmake and add bin  file path in environment variable , then install dlib 
 ## Installation:
 - Clone the repository:
 
